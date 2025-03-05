@@ -9,17 +9,17 @@ This project aims to predict loan approval status based on applicant data using 
 - Train-Test Split – Splitting the dataset into training and testing sets.
 - Model Selection – Using Support Vector Machine (SVM) for classification.
 - Model Training – Training the SVM model on the preprocessed data.
-- Model Evaluation – Assessing performance using accuracy and other metrics.
+- Model Evaluation – Assessing performance using accuracy.
 - New Data Prediction – Testing the model on new or unseen data.
 
 # Dataset Details 
 - Features: Various financial and personal attributes of loan applicants (e.g., income, credit history, loan amount, employment status, etc.).
 - Target Variable: Loan approval status (Approved or Rejected).
-- Data Source: The dataset is included in the project but should be properly preprocessed before training the model.
+- Data Source: The dataset was gotten from Kaggle. It is included in the project but should be properly preprocessed before training the model.
 
 # Technologies & Libraries Used 
 - Python
-- Jupyter Notebook
+- VS Code
 - NumPy – Numerical computations
 - Pandas – Data manipulation
 - Matplotlib & Seaborn – Data visualization
