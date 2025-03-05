@@ -1,7 +1,8 @@
 # Loan Status Prediction using Machine Learning
-Project Overview
+# Project Overview
 This project aims to predict loan approval status based on applicant data using machine learning. The goal is to develop a model that accurately classifies loan applications as either Approved or Rejected based on various financial and demographic factors.
-Workflow
+
+# Workflow
 The project follows these key steps:
 Data Collection – Loading and exploring the dataset.
 Data Preprocessing – Handling missing values, encoding categorical variables, and normalizing numerical features.
@@ -10,13 +11,16 @@ Model Selection – Using Support Vector Machine (SVM) for classification.
 Model Training – Training the SVM model on the preprocessed data.
 Model Evaluation – Assessing performance using accuracy and other metrics.
 New Data Prediction – Testing the model on new or unseen data.
-Dataset DetailsFeatures: Various financial and personal attributes of loan applicants (e.g., income, credit history, loan amount, employment status, etc.).
+Dataset Details Features: Various financial and personal attributes of loan applicants (e.g., income, credit history, loan amount, employment status, etc.).
 Target Variable: Loan approval status (Approved or Rejected).
 Data Source: The dataset is included in the project but should be properly preprocessed before training the model.
-Technologies & Libraries UsedPython
+
+# Technologies & Libraries UsedPython
 Jupyter Notebook
 NumPy – Numerical computations
 Pandas – Data manipulation
 Matplotlib & Seaborn – Data visualization
 Scikit-learn – Machine learning algorithms and evaluation metrics
-Model UsedThe project employs a Support Vector Machine (SVM) for loan status classification.
+
+# Model Used
+The project employs a Support Vector Machine (SVM) for loan status classification.
