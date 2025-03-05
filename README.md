@@ -11,6 +11,7 @@ The project follows these key steps:
 . Model Training – Training the SVM model on the preprocessed data.
 . Model Evaluation – Assessing performance using accuracy and other metrics.
 . New Data Prediction – Testing the model on new or unseen data.
+
 # Dataset Details 
 . Features: Various financial and personal attributes of loan applicants (e.g., income, credit history, loan amount, employment status, etc.).
 . Target Variable: Loan approval status (Approved or Rejected).
